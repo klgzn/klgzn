@@ -1,4 +1,4 @@
-# Hello!
+# Hello! 😸
 
 * 📜 I am an AI and Analytics graduate from Singapore Polytechnic.
 * 🖥️ I am currently working on different <b>data analysis</b> projects.
