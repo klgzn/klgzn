@@ -1,8 +1,8 @@
-# Hello! 😸
+# Hello! 
 
 * 📜 I am an AI and Analytics graduate from Singapore Polytechnic.
 * 🖥️ I am currently working on different <b>data analysis</b> projects.
-* 🌿 My interests are Sports and Health! (and cats if you can't tell)
+* 🌿 My interests are Nature and Food!
 
 My profile is currently under construction, with more projects coming soon. Stay tuned!
 
